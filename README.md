@@ -1,4 +1,4 @@
-# SIMULATION-OF-ACTIVE-LOWPASS-HIGH-PASS-AND-BANDPASS-FILTERS
+.# SIMULATION-OF-ACTIVE-LOWPASS-HIGH-PASS-AND-BANDPASS-FILTERS
 
 ## AIM : 
 To Design and simulate the following circuits using LT-Spice Active low pass filter, Active high pass filter, Active band pass filter
